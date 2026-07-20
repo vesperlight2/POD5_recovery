@@ -1,0 +1,6 @@
+# Install these packages in a fresh Python virtual environment.
+# After the workflow succeeds, freeze exact versions with:
+#   python -m pip freeze > requirements.lock.txt
+pod5
+pyarrow
+numpy

@@ -1,0 +1,10 @@
+name: pod5-salvage
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - pod5
+      - pyarrow
+      - numpy

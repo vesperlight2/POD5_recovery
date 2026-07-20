@@ -1,0 +1,4 @@
+This toolkit is an experimental, best-effort recovery aid created for a specific
+POD5 corruption pattern. It is not an Oxford Nanopore Technologies product and
+is not supported or validated by ONT. Always preserve original damaged files and
+validate rebuilt output independently before use.
